@@ -1,0 +1,3 @@
+Hello world!
+
+This is a plain text file. You can open and edit it using any text editor.
