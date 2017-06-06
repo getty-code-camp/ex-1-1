@@ -4,8 +4,9 @@ This is a plain text file. You can open and edit it using any text editor.
 
 Some cool text editors that are also free include:
 
-* Sublime Text: https://www.sublimetext.com
 * Atom: https://atom.io
 * Visual Studio Code: https://code.visualstudio.com
+* Vim: http://www.vim.org
+* Emacs: https://www.gnu.org/software/emacs/
 
 
