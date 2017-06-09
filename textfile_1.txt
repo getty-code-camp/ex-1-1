@@ -8,4 +8,5 @@ Some cool text editors that are also free include:
 * Visual Studio Code: https://code.visualstudio.com
 * Vim: http://www.vim.org
 * Emacs: https://www.gnu.org/software/emacs/
+* Sublime (free trial): https://www.sublimetext.com/
 
